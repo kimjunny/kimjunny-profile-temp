@@ -100,3 +100,5 @@ Focus       Spec-driven UX · workflow systems · interactive education
 
 - GitHub: [@kimjunny](https://github.com/kimjunny)
 - Live: [typhoon-design-game](https://typhoon-design-game.vercel.app) · [SPECs](https://project-lyart-eight-98.vercel.app)
+
+<!-- profile:active -->
